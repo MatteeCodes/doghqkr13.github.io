@@ -1,0 +1,2 @@
+module RandomcontrollerHelper
+end
